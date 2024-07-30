@@ -108,7 +108,8 @@ Imprimindo o número 4
 Imprimindo o número 5
 ```
 #### Imagem de Exemplo Teste:
-![img.png](../../../../../img.png)
+![image](https://github.com/user-attachments/assets/4dde41c8-f506-4918-9e8b-71a998ebbd8a)
+
 
 Se o primeiro parâmetro for maior que o segundo, a seguinte mensagem de erro será exibida:
 O segundo parâmetro deve ser maior que o primeiro
